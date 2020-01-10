@@ -1,7 +1,7 @@
 .calculator {
     margin-top: 40px;
     border: solid 1px #000;
-    padding: 20px;
+    padding: 30px;
     background-color: #2E2E2E;
     border-radius: 10px;
     box-shadow: 1px 1px 5px #000;
@@ -16,6 +16,11 @@
 
 .clear {
     width: 130px;
+    background-color: #75a2b7!important;
+}
+
+.clear:hover {
+    background-color: #007ebd!important;
 }
 
 .enter {
